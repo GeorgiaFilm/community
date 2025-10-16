@@ -110,7 +110,7 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 - **Fuel Nearby:** Uranium and thorium deposits in Nevada (Majuba Hill, Green Monster) and nearby California (Mountain Pass).
 - **Infrastructure:** Historic repository site—access roads, surveys, and waste-handling readiness already exist.
 
-### 2. North Georgia Mountains (Blue Ridge, Piedmont), USA
+### 2. North Georgia (Blue Ridge, Piedmont), USA
 
 - **Seismic:** Generally low risk; region is stable and away from major North American faults.
 - **Groundwater:** Crystalline basement rocks with low permeability. Less water movement or aquifer recharge.
@@ -118,6 +118,7 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 - **Geology:** Granite/gneiss core; excellent for shaft/tunnel stability.
 - **Fuel Nearby:** Some thorium detected; minor uranium in region. (See southern Appalachians maps for detail.)
 - **Infrastructure:** Accessible by road; permitted construction possible.
+- **Perk:** Nation's top nuclear workforce at Plant Vogtle, the only new nuclear reactors built in 30 years.
 
 ### 3. Central/Western Ukrainian Plateaus (Kirovohrad Region, Ukraine)
 
@@ -126,7 +127,8 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 - **Climate:** Low annual rainfall, semi-arid.
 - **Geology:** Stable sedimentary and granitic bedrock—favorable for underground construction.
 - **Fuel Nearby:** Major uranium reserves (Kirovohrad has Europe’s largest), with mapped rare earths and thorium.
-- **Infrastructure:** Strong nuclear history, established mining and engineering workforce.
+- **Infrastructure:** Strong nuclear history, established mining, engineering and robotics workforce.
+- **Security:** Strong incentives for deep energy resources in resiliancy strategy with European partners.
 
 ## Maps for Site and Fuel Visualization
 
