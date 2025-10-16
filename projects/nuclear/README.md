@@ -103,6 +103,8 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 
 ### 1. Yucca Mountain Area, Nevada, USA
 
+**Potential Partners:** United States, Mexico, Canada
+
 - **Seismic:** Moderate to low. Away from major faults, historic earthquakes rare.
 - **Groundwater:** Sits ~300 meters above the deep water table in dense volcanic tuff. Very slow recharge—limits hydrology risk.
 - **Climate:** True desert; less than 10 inches of rain a year.
@@ -110,25 +112,30 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 - **Fuel Nearby:** Uranium and thorium deposits in Nevada (Majuba Hill, Green Monster) and nearby California (Mountain Pass).
 - **Infrastructure:** Historic repository site—access roads, surveys, and waste-handling readiness already exist.
 
-### 2. North Georgia (Blue Ridge, Piedmont), USA
+### 2. North Georgia Mountains, USA
+
+**Potential Partners:** United States, Mexico, Canada
 
 - **Seismic:** Generally low risk; region is stable and away from major North American faults.
 - **Groundwater:** Crystalline basement rocks with low permeability. Less water movement or aquifer recharge.
-- **Climate:** Cooler elevation zones; drier “ridge” microclimates.
+- **Climate:** Cooler elevation zones; drier “ridge” microclimates of Blue Ridge and Piedmont regions.
 - **Geology:** Granite/gneiss core; excellent for shaft/tunnel stability.
 - **Fuel Nearby:** Some thorium detected; minor uranium in region. (See southern Appalachians maps for detail.)
-- **Infrastructure:** Accessible by road; permitted construction possible.
+- **Infrastructure:** Accessible by road; permitted construction possible. Water production for multiple states.
 - **Perk:** Nation's top nuclear workforce at Plant Vogtle, the only new nuclear reactors built in 30 years.
 
-### 3. Central/Western Ukrainian Plateaus (Kirovohrad Region, Ukraine)
+### 3. Central/Western Ukrainian (Kirovohrad Region)
 
-- **Seismic:** Very low to moderate; far from Ukraine’s seismic zones.
+**Potential Partners:** Ukrainian, Netherlands, France, United States
+
+- **Seismic:** Very low to moderate in plateau region; far from Ukraine’s seismic zones.
 - **Groundwater:** Deep, slow-moving aquifers; dry steppe conditions.
 - **Climate:** Low annual rainfall, semi-arid.
 - **Geology:** Stable sedimentary and granitic bedrock—favorable for underground construction.
 - **Fuel Nearby:** Major uranium reserves (Kirovohrad has Europe’s largest), with mapped rare earths and thorium.
 - **Infrastructure:** Strong nuclear history, established mining, engineering and robotics workforce.
-- **Security:** Strong incentives for deep energy resources in resiliancy strategy with European partners.
+- **Security:** Strong incentives for deep energy resiliancy strategy with European partners.
+- **Strategic:** Future partnerships with Russia based on unfolding peace process.
 
 ## Maps for Site and Fuel Visualization
 
