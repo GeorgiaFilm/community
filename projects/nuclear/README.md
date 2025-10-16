@@ -99,7 +99,7 @@ Combining **sealed-core reactors**, **dry geological environments**, and **resou
 - **Nearby Fuel Resources (Preferred):** Uranium or thorium deposits within reasonable distance.
 - **Accessible Infrastructure:** Sufficient for construction, operation, and long-term monitoring.
 
-## Top U.S. and International Candidate Locations
+## Potential Underground SMR Locations and Partnerships
 
 ### 1. Yucca Mountain Area, Nevada, USA
 
