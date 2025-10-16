@@ -36,17 +36,17 @@ Underground SMRs are particularly well suited for powering **ice-from-air** usin
 <br>
 
 
-# Highland Deployment for Aquifer Replenishment
+### Highland Deployment for Aquifer Replenishment
 
-## Environmental Risk Mitigation
+# Environmental Risk Mitigation
 
-### **Seismic & Hydrological Safety**
+## **Seismic & Hydrological Safety**
 - Avoid **central Himalayan** or other tectonically active belts (Mw 6–8).  
 - Prefer **cratonic basements** (granite, basalt) with **PGA < 0.1g**.  
 - Isolate from aquifers using **multi-layer containment** and **hydraulic grouting**.  
 - Continuous **isotopic groundwater monitoring** for early detection.
 
-### **Recommended Regions**
+## **Potential Regions**
 | Region | Country | Benefits |
 |---------|----------|-----------|
 | **Ladakh Cold Desert** | India | Arid, stable crystalline rock, minimal groundwater |
@@ -80,25 +80,17 @@ Underground SMRs are particularly well suited for powering **ice-from-air** usin
 📖 [EarthGrid – Plasma Tunneling](https://earthgrid.io/tunneling/)
 
 
-## Strategic Insights
-
-• Waste minimization is achievable through sealed-core, high-burnup, or molten-salt fuel cycles.
-• Seismic and groundwater isolation are more critical than waste transport for long-term safety.
-• Highland deserts (e.g., Ladakh, Tibetan Plateau, Atacama) offer the best geological and hydrological balance.
-• Integration with MOF systems and EarthGrid excavation enables complete off-grid sustainability loops.
-
-## Conclusion & Next Steps
+## Drilling Tech and Pure Water Replenishment
 
 Deploying **low-waste underground SMRs** in **stable highland deserts** offers the best path toward sustainable, resilient nuclear infrastructure.  
 Combining **sealed-core reactors**, **dry geological environments**, and **resource reuse systems** (MOFs + brine + plasma boring) potentially forms a closed-loop ecosystem for **power, water, and construction**.
 
-EarthGrid Boring...
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KATf6GB6qpU?si=J3l_9EOGByRiLw5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KATf6GB6qpU?si=J3l_9EOGByRiLw5O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>EarthGrid Boring demo projects in California and [Norway with Statnett Energy](https://www.mystateline.com/business/press-releases/ein-presswire/851816734/earthgrid-showcases-breakthrough-plasma-excavation-technology-in-norway-opens-door-to-european-pilot-projects/)
 <br>
 
 # Locations for Underground SMRs
 
-## Key Requirements for Underground SMR Sites
+## Key Requirements for Initial Underground SMR Sites
 
 - **Low Seismic Activity:** Far from active fault zones and earthquake epicenters; stable bedrock.
 - **Minimal Groundwater Flow:** Deep water table, arid conditions, or crystalline rock limit groundwater and contamination risk.
@@ -138,11 +130,18 @@ EarthGrid Boring...
 
 ## Maps for Site and Fuel Visualization
 
-- Nevada/California: USGS uranium-thorium overlays.
-- Georgia Mountains: USGS/Georgia EPD thorium/uranium maps.
-- Ukraine: Kirovohrad/Ukraine national georesources maps.
+- Nevada/California: USGS uranium-thorium overlays
+- Georgia Mountains: USGS/Georgia EPD thorium/uranium maps
+- Ukraine: [Kirovohrad/Ukraine national georesources maps](https://www.visualcapitalist.com/mapped-ukraines-mineral-resources/)
 
----
+
+## Strategic Insights
+
+• Waste minimization is achievable through sealed-core, high-burnup, or molten-salt fuel cycles.
+• Seismic and groundwater isolation are more critical than waste transport for long-term safety.
+• Highland deserts (e.g., Ladakh, Tibetan Plateau, Atacama) offer the best geological and hydrological balance.
+• Integration with MOF systems and EarthGrid excavation enables complete off-grid sustainability loops.
+
 
 ## Summary
 
